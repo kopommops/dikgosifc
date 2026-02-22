@@ -1,14 +1,14 @@
-# 🦓 Dikgosi FC — BPL Intelligence Platform
+# Dikgosi FC
 
 > The first dedicated data & intelligence platform for the **FNB Botswana Premier League**.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/YOUR_USERNAME/dikgosi-fc)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kopommops/dikgosi-fc)
 
 ---
 
 ## What is Dikgosi FC?
 
-**Dikgosi** (Setswana: *Kings / Chiefs*) is a full-stack sports data platform built exclusively for the Botswana Premier League. It scrapes live data, transforms it with dbt, runs ML predictions, and serves everything through a FastAPI backend and a clean responsive frontend.
+**Dikgosi** (Setswana: *Kings / Chiefs*) is a full-stack sports data platform built exclusively for the Botswana Premier League. It scrapes live data, transforms it with dbt, runs ML predictions, and serves everything through a FastAPI backend and a clean, responsive frontend.
 
 ### Features (MVP)
 | Feature | Status |
