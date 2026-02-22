@@ -138,4 +138,4 @@ mart_prediction_features → ML features (Week 6)
 
 ---
 
-*Built by [Your Name] · Portfolio Project · 2026*
+*Built by Mmopiemang Mmopiemang · Portfolio Project · 2026*
