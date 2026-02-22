@@ -2,7 +2,6 @@
 
 > The first dedicated data & intelligence platform for the **FNB Botswana Premier League**.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kopommops/dikgosi-fc)
 
 ---
 
